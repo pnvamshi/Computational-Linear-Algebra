@@ -1,2 +1,2 @@
 # Computational Linear Algebra
-Repository for Computational Linear Algebra course Assignments
+Repository for Computational Linear Algebra [MA60053] course Assignments
