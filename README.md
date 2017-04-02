@@ -1,2 +1,2 @@
 # Computational-Linear-Algebra
-Computational Linear Algebra Course Assignments
+Repository for Computational Linear Algebra course Assignments
